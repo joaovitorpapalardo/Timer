@@ -18,4 +18,4 @@ for x in range(num, 0, -1):
     print(timer, end="\r")
     time.sleep(1)
 
-print('Tempo Esgotado!')
+print("Tempo Esgotado!")
